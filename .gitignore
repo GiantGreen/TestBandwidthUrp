@@ -1,0 +1,9 @@
+*.csproj
+Library
+Logs
+MemoryCaptures
+obj
+TestBandwithUrp_BurstDebugInformation_DoNotShip
+UserSettings
+.vsconfig
+*.sln
